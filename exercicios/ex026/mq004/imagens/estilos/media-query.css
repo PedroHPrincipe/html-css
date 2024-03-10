@@ -46,7 +46,7 @@ Grandes telas: acime de 1200px
     img#tv {display: none;}
 }
 
-@media screen and (min-width:992px) and (max-width:1100px) { /*DESKTOP*/
+@media screen and (min-width:992px) and (max-width:1200px) { /*DESKTOP*/
     body{
         background-image: url(../imagens/back-pc.jpg);
         font-family: 'Courier New', Courier, monospace;
